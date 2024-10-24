@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_rce",
+  "version": "1.0.0",
+  "description": "exploitation tools for nodejs",
+  "main": "rce_deserialization.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsankesara/nodejs_RCE.git"
+  },
+  "author": "tsankesara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsankesara/nodejs_RCE/issues"
+  },
+  "homepage": "https://github.com/tsankesara/nodejs_RCE#readme",
+  "dependencies": {
+    "node-serialize": "^0.0.4"
+  }
+}

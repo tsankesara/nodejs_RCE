@@ -23,8 +23,18 @@ git clone https://github.com/tsankesara/js_exploits
 cd js_exploits
 npm install
 ```
-
 ### Deserialization Attack (Remote Code Execution)
 
-A deserialization attack occurs when an application processes untrusted or user-controlled data during deserialization, leading to potential Remote Code Execution (RCE). Insecure deserialization allows attackers to craft malicious objects that, when deserialized by the application, can execute arbitrary code.
+This script demonstrates an exploit for Node.js applications vulnerable to insecure deserialization. By crafting a malicious serialized object, it allows Remote Code Execution (RCE) on the target system.
 
+#### Steps to Use
+
+1. Ensure Node.js is installed.
+2. Save the script as `rce_deserialization.js`.
+3. Make Your Edits in the script.
+4. Run the script:
+   ```bash
+   node rce_deserialization.js
+   ```
+
+   

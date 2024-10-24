@@ -1,5 +1,5 @@
 # Javascript Exploits
-exploitation tools for nodejs.
+Exploitation tools for javascript tech stack.
 
 ## Deserialization Attack on unsecured nodejs application
   rce_deserialization.js

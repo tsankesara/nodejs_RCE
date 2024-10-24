@@ -1,6 +1,6 @@
 // Author: Teerth Sankesara
 // github: github.com/tsankesara
-// Desc: tool made for exploiting nodejs insecure deserilization of serilized data with Remote Code Execution
+// Desc: tool made for exploiting nodejs insecure deserilization of serilized data for Remote Code Execution
 
 const fs = require('fs'); // Import the file system module
 var serialize = require('node-serialize');

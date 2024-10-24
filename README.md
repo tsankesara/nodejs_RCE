@@ -1,4 +1,4 @@
-# nodejs_RCE
+# Javascript Exploits
 exploitation tools for nodejs.
 
 ## Deserialization Attack on unsecured nodejs application
